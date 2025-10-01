@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2016-03-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Completed SSC at <a href="https://ipsc.edu.bd">Ispahani Public School and College</a>, Cumilla with Board Scholarship.
