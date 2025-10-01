@@ -440,16 +440,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-completed-ssc-at-ispahani-public-school-and-college-cumilla-with-board-scholarship",
+          title: 'Completed SSC at Ispahani Public School and College, Cumilla with Board Scholarship.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-completed-hsc-at-adamjee-cantonment-college-college-dhaka-with-board-scholarship",
+          title: 'Completed HSC at Adamjee Cantonment College College, Dhaka with Board Scholarship.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-mbbs-at-mymensingh-medical-college-hospital",
+          title: 'Started MBBS at Mymensingh Medical College Hospital.',
+          description: "",
+          section: "News",},{id: "news-completed-mbbs",
+          title: 'Completed MBBS.',
+          description: "",
+          section: "News",},{id: "news-joined-mmch-as-an-intern-doctor",
+          title: 'Joined MMCH as an Intern Doctor.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
