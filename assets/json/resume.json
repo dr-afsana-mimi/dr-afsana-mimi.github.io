@@ -24,7 +24,7 @@
       "startDate": "2025-03-01",
       "endDate": "2026-03-01",
       "summary": "Rotating internship with clinical training in Medicine, Surgery, Pediatrics, and Obstetrics & Gynecology, focused on patient care and skill development.",
-      "highlights": ["Medicine", "Surgery", "GObs", "Aurthopedics", "Pediatrics"]
+      "highlights": ["Medicine", "Surgery", "GObs", "Orthopedics", "Pediatrics"]
     }
   ],
   "volunteer": [
@@ -94,7 +94,36 @@
 ,
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": ["Lumbar puncture",
+"Pleural aspiration",
+"Ascitic aspiration",
+
+"NVD",
+"C/S assistance",
+"PV examination",
+"Labour monitoring",
+
+"Abscess drainage",
+"Suturing",
+"Drain management",
+"OT assistance",
+
+"IV cannulation",
+"Urinary catheterization",
+"NG tube insertion",
+"Wound dressing",
+"Stoma care",
+"IM injection",
+
+"BLS",
+"Emergency assessment",
+
+"History taking",
+"Physical examination",
+"Case presentation",
+"Prescription writing",
+"Patient monitoring",
+"Patient counselling"],
   "languages": [
     {
       "language": "Bengali",
