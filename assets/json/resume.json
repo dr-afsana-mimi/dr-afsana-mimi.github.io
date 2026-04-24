@@ -94,36 +94,73 @@
 ,
   "certificates": [],
   "publications": [],
-  "skills": ["Lumbar puncture",
-"Pleural aspiration",
-"Ascitic aspiration",
-
-"NVD",
-"C/S assistance",
-"PV examination",
-"Labour monitoring",
-
-"Abscess drainage",
-"Suturing",
-"Drain management",
-"OT assistance",
-
-"IV cannulation",
-"Urinary catheterization",
-"NG tube insertion",
-"Wound dressing",
-"Stoma care",
-"IM injection",
-
-"BLS",
-"Emergency assessment",
-
-"History taking",
-"Physical examination",
-"Case presentation",
-"Prescription writing",
-"Patient monitoring",
-"Patient counselling"],
+  "skills": [
+  {
+    "name": "Emergency & Critical Care",
+    "level": "Advanced",
+    "keywords": [
+      "Emergency assessment",
+      "Basic life support (BLS)",
+      "Oxygen therapy & nebulization",
+      "Neonatal resuscitation",
+      "ECG interpretation",
+      "X-Ray / CT scan interpretation"
+    ]
+  },
+  {
+    "name": "Surgical & Wound Management",
+    "level": "Advanced",
+    "keywords": [
+      "Suturing",
+      "Wound dressing",
+      "Abscess drainage",
+      "Excisional biopsy",
+      "OT assistance",
+      "Drain management",
+      "Stoma care",
+      "Removal of suture & stapling"
+    ]
+  },
+  {
+    "name": "Obstetrics & Maternal Health",
+    "level": "Advanced",
+    "keywords": [
+      "Normal vaginal delivery (NVD)",
+      "C/S assistance",
+      "Labour monitoring",
+      "PV examination"
+    ]
+  },
+  {
+    "name": "Clinical Procedures",
+    "level": "Advanced",
+    "keywords": [
+      "Lumbar puncture",
+      "Thoracentesis",
+      "Paracentesis",
+      "IV cannulation",
+      "IV drugs & medication administration",
+      "IM injection",
+      "Urinary catheterization",
+      "NG tube insertion",
+      "Rectal diazepam",
+      "Nasal pack insertion",
+      "Continuous bladder irrigation (CBI)"
+    ]
+  },
+  {
+    "name": "Professional Competencies",
+    "level": "Advanced",
+    "keywords": [
+      "History taking",
+      "Physical examination",
+      "Case presentation",
+      "Prescription writing",
+      "Patient monitoring",
+      "Patient counselling"
+    ]
+  }
+],
   "languages": [
     {
       "language": "Bengali",
