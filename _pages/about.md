@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Afsana Mimi is currently an Intern Doctor at Mymensingh Medical College Hospital, where she is gaining hands-on experience in patient care and clinical practice. She completed her MBBS from Mymensingh Medical College and is aspiring to build her medical career abroad, with a focus on advanced training, global healthcare standards, and research opportunities.
+Dr. Afsana Akter Mimi is a dedicated medical professional and a high-achieving MBBS graduate from Mymensingh Medical College. Having completed her clinical internship at Mymensingh Medical College Hospital, she has developed a wide-ranging proficiency in emergency assessment, surgical assistance, and complex procedural skills.
 
-Her academic record reflects consistent excellence. She was awarded Board Scholarships in both her Higher Secondary studies at Adamjee Cantonment College, Dhaka, and Secondary studies at Ispahani Public School and College, Cumilla.
+Her academic career is marked by consistent distinction, including a 5.00/5.00 GPA and Board Scholarships at both secondary and higher secondary levels. With a strong foundation in medical education and clinical practice, she is currently seeking opportunities as a Lecturer or Resident Medical Officer to contribute to academic excellence and patient care. Dr. Mimi is also preparing for postgraduate specialization in Obstetrics & Gynaecology, aiming for FCPS and MD qualifications.
 
 With a strong academic foundation, clinical dedication, and a vision for global medical practice, Dr. Mimi is committed to contributing meaningfully to patient care and the advancement of healthcare worldwide.
 
