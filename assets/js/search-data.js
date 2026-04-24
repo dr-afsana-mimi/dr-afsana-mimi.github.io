@@ -53,6 +53,9 @@ ninja.data = [{
           section: "News",},{id: "news-joined-mmch-as-an-intern-doctor",
           title: 'Joined MMCH as an Intern Doctor.',
           description: "",
+          section: "News",},{id: "news-completed-internship",
+          title: 'Completed Internship.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
